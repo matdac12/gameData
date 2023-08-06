@@ -1,0 +1,4 @@
+id,GameName,GameNumber,GameResult,GameLocation,points,possessions,scoringPossessions,pointPerPossession,turnovers,assists,assistPerc,ATR,fgTaken,fgMade,fgPerc,threesTaken,threesMade,threesPerc,twosTaken,twosMade,twosPerc,ftTaken,ftMade,ftPerc,FD,OffReb
+F91FDD1E-B1F3-436E-8C9A-3E8EEB21894A,Game1,1,W,H,19,11,11,1.7272727272727273,0,11,1.375,inf,11,8,0.7272727272727273,4,3,0.75,7,5,0.7142857142857143,0,0,nan,0,11.0
+462B6D51-26E3-4D9E-8BA2-E26EEE45D8AA,Game2,2,W,H,8,6,6,1.3333333333333333,0,6,2.0,inf,6,3,0.5,4,2,0.5,2,1,0.5,0,0,nan,0,6.0
+8D80C72A-7C4E-420A-9E70-0E9F1CFDA091,Game3,3,W,H,16,13,13,1.2307692307692308,0,13,2.1666666666666665,inf,13,6,0.46153846153846156,7,4,0.5714285714285714,6,2,0.3333333333333333,0,0,nan,1,13.0
